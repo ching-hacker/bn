@@ -1,4 +1,4 @@
-# Auther : Binyamin
+# Auther : Chad Ivan D. Nillo
 # GitHub : https://github.com/Binyamin-binni
 # YouTube Channel : Trick Proof
 import base64
